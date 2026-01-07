@@ -1,0 +1,18 @@
+# Backend (Node)
+safemama-backend/node_modules/
+safemama-backend/.env
+
+# Flutter app (SafeMama Done-1)
+safemama-done-1/.dart_tool/
+safemama-done-1/build/
+safemama-done-1/ios/Pods/
+safemama-done-1/linux/flutter/
+safemama-done-1/macos/Flutter/
+safemama-done-1/windows/flutter/
+safemama-done-1/.packages
+safemama-done-1/.flutter-plugins
+safemama-done-1/.flutter-plugins-dependencies
+
+# General
+.DS_Store
+.env

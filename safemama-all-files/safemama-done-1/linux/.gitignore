@@ -1,0 +1,14 @@
+flutter/ephemeral
+# ... other ignores ...
+
+# Environment variables
+.env
+
+# Sensitive configuration files (if any)
+# /android/key.properties (if storing signing keys there, though better practice is elsewhere)
+# /ios/Runner/GoogleService-Info.plist (if using Firebase and not checked in)
+# /android/app/google-services.json (if using Firebase and not checked in)
+
+# IDE files
+.idea/
+.vscode/

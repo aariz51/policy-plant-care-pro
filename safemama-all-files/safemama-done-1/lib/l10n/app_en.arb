@@ -1,0 +1,1478 @@
+{
+    "@@locale": "en",
+    "welcomeTitleNew": "Your Safe Pregnancy Journey Starts Here!",
+    "@welcomeTitleNew": {
+        "description": "Title for the new welcome screen"
+    },
+    "welcomeSubtitleNew": "Get personalized guidance, scan products, and stay informed every step of the way.",
+    "@welcomeSubtitleNew": {
+        "description": "Subtitle for the new welcome screen"
+    },
+    "getStartedButton": "Get Started",
+    "@getStartedButton": {
+        "description": "Text for the get started button"
+    },
+    "interactiveWelcomeTitle": "SafeMama",
+    "@interactiveWelcomeTitle": {
+        "description": "Title for the new interactive welcome screen with animation"
+    },
+    "interactiveWelcomeTagline": "Guidance for your pregnancy journey, made easy.",
+    "@interactiveWelcomeTagline": {
+        "description": "Tagline for the new interactive welcome screen with animation"
+    },
+    "loginFailedAfterSignupError": "Account created, but auto sign-in failed. Please try logging in manually.",
+    "signupFailedErrorGeneral": "Account creation failed. Please try again.",
+    "appTitle": "SafeMama",
+    "welcomeScreenTitle": "Welcome, Mommy!",
+    "welcomeScreenNewSubtitle": "Let's keep your pregnancy safe — one scan at a time.",
+    "welcomeScreenSelectTrimesterPrompt": "Select Your Trimester:",
+    "trimester1st": "1st Trimester",
+    "@trimester1st": {
+        "description": "Label for the first trimester button"
+    },
+    "trimester1stWeeks": "Weeks 1-12",
+    "trimester2nd": "2nd Trimester",
+    "@trimester2nd": {
+        "description": "Label for the second trimester button"
+    },
+    "trimester2ndWeeks": "Weeks 13-26",
+    "trimester3rd": "3rd Trimester",
+    "@trimester3rd": {
+        "description": "Label for the third trimester button"
+    },
+    "trimester3rdWeeks": "Weeks 27-40",
+    "allergySeafoodLabel": "Seafood",
+    "personalizePregnancyTipPlaceholder": "Stay hydrated! Aim to drink at least 8-10 glasses of water daily. This helps maintain amniotic fluid levels and can prevent dehydration, which can cause contractions.",
+    "loginScreenTitle": "Login",
+    "welcomeBackTitle": "Welcome Back!",
+    "loginSubtitle": "Please enter your details to login",
+    "rememberMeLabel": "Remember me",
+    "loginButtonLabel": "Login",
+    "dontHaveAccountPrompt": "Don't have an account?",
+    "signUpLink": "Sign up",
+    "orContinueWithLabel": "Or continue with",
+    "enterValidEmailError": "Please enter a valid email address.",
+    "enterPasswordError": "Please enter a password.",
+    "signupScreenTitle": "Sign Up",
+    "joinSafeMamaTitle": "Join SafeMama",
+    "@joinSafeMamaTitle": {
+        "description": "Title for the signup screen"
+    },
+    "signupSubtitle": "Create an account to get started.",
+    "@signupSubtitle": {
+        "description": "Subtitle for the signup screen"
+    },
+    "createPasswordLabel": "Create Password",
+    "@createPasswordLabel": {
+        "description": "Label for create password input"
+    },
+    "signUpButtonLabel": "Sign Up & Continue",
+    "@signUpButtonLabel": {
+        "description": "Label for the main sign-up button"
+    },
+    "alreadyHaveAccountPromptShort": "Already have an account?",
+    "@alreadyHaveAccountPromptShort": {
+        "description": "Prompt for users who already have an account"
+    },
+    "loginLink": "Login",
+    "@loginLink": {
+        "description": "Link text to navigate to login screen"
+    },
+    "signupSuccessConfirmationNeeded": "Sign up successful! Please check your email to confirm your account.",
+    "signupSuccessLoggedIn": "Signup successful! You are now logged in.",
+    "signupCompletedNoUserError": "Sign up completed, but no user data received. Please try logging in.",
+    "enterPasswordMinLengthError": "Password must be at least 6 characters",
+    "mamaFallbackName": "Mama",
+    "homeScreenNewTitle": "Dashboard",
+    "notificationsTooltip": "Notifications",
+    "homeScreenNewSubtitle": "Ready to scan your items?",
+    "homeDashboardScanFood": "Scan Food or Medicine",
+    "homeDashboardScanFoodSub": "Quick scan using camera",
+    "homeDashboardManualSearch": "Manual Search",
+    "homeDashboardManualSearchSub": "Search our database",
+    "homeDashboardScanHistory": "Scan History",
+    "homeDashboardScanHistorySub": "View past scans",
+    "homeDashboardProfile": "Profile",
+    "homeDashboardProfileSub": "Manage your account",
+    "homeDashboardGuideSub": "Explore pregnancy tips",
+    "@homeDashboardGuideSub": {
+        "description": "Subtitle for the Guide card on the home screen dashboard"
+    },
+    "homeRecentScansTitle": "Recent Scans",
+    "homeNoRecentScans": "No recent scans yet. Start by scanning a product!",
+    "bottomNavScan": "Scan",
+    "bottomNavSaved": "Saved",
+    "scanProductScreenTitle": "Scan Product",
+    "toggleFlashButtonLabel": "Toggle flash",
+    "closeButtonLabel": "Close",
+    "scanCameraUnavailable": "Camera unavailable.",
+    "scanOpenSettingsButton": "Open Settings",
+    "scanCenterProductLabel": "Center the product label in frame",
+    "scanProductDetectedReady": "Product detected! Ready to scan",
+    "scanEnsureLabelVisible": "Ensure the product label is clearly visible",
+    "scanAlignProductPrompt": "Align product in frame",
+    "scanProductAlignedPrompt": "Product aligned! Ready to scan.",
+    "scanTakePhotoButton": "Take Photo",
+    "scanUploadFromGalleryButton": "Upload from Gallery",
+    "scanPrivacyProtected": "Your privacy is protected. Images are processed securely.",
+    "scanProcessingImage": "Processing image...",
+    "scanItemNotConsumableError": "This item is not consumable. Please scan a valid food or medicine item.",
+    "unknownRisk": "Unknown Risk",
+    "noDetailsProvided": "No details provided.",
+    "noSpecificTip": "No specific tip available.",
+    "scanAnalysisFailed": "Failed to analyze product.",
+    "scanUnexpectedError": "An unexpected error occurred.",
+    "scanConnectionError": "Could not connect to the analysis server. Please try again later.",
+    "scanAnalysisServerErrorParam": "Analysis server error: {details}",
+    "@scanAnalysisServerErrorParam": {
+        "placeholders": {
+            "details": {
+                "type": "String"
+            }
+        }
+    },
+    "scanAnalysisServerError": "Analysis server encountered an error. Please try again.",
+    "scanRequestProblemParam": "There was a problem with the request: {details}",
+    "@scanRequestProblemParam": {
+        "placeholders": {
+            "details": {
+                "type": "String"
+            }
+        }
+    },
+    "scanRequestProblem": "There was a problem with the request. Please try again.",
+    "scanUnknownCameraError": "Unknown camera error",
+    "scanCaptureError": "Error taking picture: {details}",
+    "@scanCaptureError": {
+        "placeholders": {
+            "details": {
+                "type": "String"
+            }
+        }
+    },
+    "scanUnexpectedCaptureError": "An unexpected error occurred during capture.",
+    "scanGalleryPickError": "Failed to pick image: {details}",
+    "@scanGalleryPickError": {
+        "placeholders": {
+            "details": {
+                "type": "String"
+            }
+        }
+    },
+    "scanCameraInitErrorParams": "Could not initialize camera: {description}",
+    "@scanCameraInitErrorParams": {
+        "placeholders": {
+            "description": {
+                "type": "String"
+            }
+        }
+    },
+    "riskLevelSafe": "Safe",
+    "riskLevelCaution": "Use with Caution",
+    "riskLevelAvoid": "Avoid",
+    "riskLevelUnknown": "Unknown",
+    "saferAlternativesLabel": "Safer Alternatives",
+    "shareDisclaimer": "Disclaimer: This information is AI-generated and not a substitute for professional medical advice. Always consult your healthcare provider.",
+    "errorSharingContent": "Could not share content at this time.",
+    "safetyTipsLabel": "Safety Tips",
+    "scanResultSaveButton": "Save to My List",
+    "scanResultSavedButton": "Saved ✔",
+    "scanResultReadMoreButtonOld": "Read More",
+    "pregnancyTipLabel": "Pregnancy Tip",
+    "@pregnancyTipLabel": {},
+    "riskBannerSafeMessage": "This product is generally considered safe during pregnancy.",
+    "riskBannerCautionMessage": "Use this product with caution. Consult your doctor for advice.",
+    "riskBannerAvoidMessage": "This product is best avoided during pregnancy.",
+    "riskBannerUnknownMessage": "Safety information for this product is unknown or unclear. Consult your doctor.",
+    "profilePictureUpdatedSuccess": "Profile picture updated successfully.",
+    "profileEmailCannotBeChanged": "Email address cannot be changed here.",
+    "defaultUserName": "Valued User",
+    "profileMemberSincePlaceholder": "Member since {year}",
+    "@profileMemberSincePlaceholder": {
+        "placeholders": {
+            "year": {
+                "type": "String"
+            }
+        }
+    },
+    "emailNotificationsLabel": "Email Notifications",
+    "emailNotificationsSubtitle": "Receive updates and reminders",
+    "dataSharingLabel": "Data Sharing",
+    "dataSharingSubtitle": "Share anonymous data for research",
+    "dangerZoneTitle": "Danger Zone",
+    "deleteAccountButton": "Delete Account",
+    "deleteAccountSubtitle": "Permanently remove your account and all data.",
+    "unknownProduct": "Unknown Product",
+    "scanHistoryScreenTitle": "Scan History",
+    "moreFiltersTooltip": "More Filters",
+    "historySearchHint": "Search in history...",
+    "filterAll": "All",
+    "filterSafe": "Safe",
+    "filterWarning": "Warning",
+    "filterAvoid": "Avoid",
+    "historyErrorLoading": "Error loading history: {errorDetails}",
+    "@historyErrorLoading": {
+        "placeholders": {
+            "errorDetails": {
+                "type": "String"
+            }
+        }
+    },
+    "historyNoScansYet": "No Scans Yet",
+    "historyNoFilterResults": "No Results Found",
+    "tagSafe": "Safe",
+    "tagWarning": "Warning",
+    "tagAvoid": "Avoid",
+    "tagUnknown": "Unknown",
+    "searchItemsScreenTitle": "Search Items",
+    "searchItemsHint": "Search products by name...",
+    "searchPromptStartTyping": "Start typing to search for products.",
+    "searchNoResultsFound": "No items found matching your search.",
+    "tagUseWithCaution": "Caution",
+    "tagNotSafe": "Avoid",
+    "tagInfo": "Info",
+    "searchItemNoDescription": "No description available.",
+    "helloMama": "Hello, Mama!",
+    "@helloMama": {
+        "description": "Greeting message on the home screen"
+    },
+    "homeScreenSubtitle": "Instantly check what you're about to eat or take is pregnancy-safe.",
+    "scanProduct": "Scan Product",
+    "takePhoto": "Take Photo",
+    "uploadFromGallery": "Upload from Gallery",
+    "welcomeScreenSubtitle": "Your guide to safe choices during pregnancy. Instantly check food, medicine, and more.",
+    "selectYourTrimester": "Select your trimester:",
+    "skip": "Skip",
+    "scanFoodOrMedicine": "Scan Food or Medicine",
+    "getInstantSafetyResults": "Get instant safety results",
+    "personalizeTitle": "Personalize Your Experience",
+    "savePreferences": "Save Preferences",
+    "settingsTitle": "Settings",
+    "historyTitle": "Scan History",
+    "alreadyHaveAccount": "Already have an account? Login",
+    "@alreadyHaveAccount": {
+        "description": "Text for login prompt if user has an account"
+    },
+    "profileSettingsTitle": "Profile Settings",
+    "saveChangesTooltip": "Save Changes",
+    "personalInformationTitle": "Personal Information",
+    "emailLabel": "Email Address",
+    "@emailLabel": {
+        "description": "Label for email input"
+    },
+    "currentTrimesterLabel": "Current Trimester",
+    "firstTrimester": "First Trimester",
+    "secondTrimester": "Second Trimester",
+    "thirdTrimester": "Third Trimester",
+    "preferencesTitle": "Preferences",
+    "languageSettingLabel": "Language",
+    "notificationsSettingsLabel": "Notifications",
+    "manageAlertsSubtitle": "Manage alerts",
+    "dietaryPreferencesLabel": "Dietary Preferences",
+    "allergiesLabel": "Allergies",
+    "dataAndPrivacyTitle": "Data & Privacy",
+    "clearScanHistoryButton": "Clear Scan History",
+    "privacyPolicyButton": "Privacy Policy",
+    "termsOfServiceButton": "Terms of Service",
+    "signOutButton": "Sign Out",
+    "profileSavedSuccess": "Profile saved successfully!",
+    "profileSavedFailed": "Failed to save profile.",
+    "clearScanHistoryDialogTitle": "Clear Scan History?",
+    "clearScanHistoryDialogContent": "Are you sure you want to delete all your saved scans and associated images? This action cannot be undone.",
+    "cancelButtonLabel": "Cancel",
+    "clearHistoryButtonLabel": "Clear History",
+    "errorUserNotAuthenticated": "User not authenticated. Please log in.",
+    "scanHistoryClearedSuccess": "Scan history cleared successfully.",
+    "scanHistoryClearedFailed": "Failed to clear history: {error}",
+    "@scanHistoryClearedFailed": {
+        "description": "Message shown when clearing scan history fails, with a placeholder for the error.",
+        "placeholders": {
+            "error": {
+                "type": "String",
+                "example": "Network issue"
+            }
+        }
+    },
+    "signOutDialogTitle": "Sign Out?",
+    "signOutDialogContent": "Are you sure you want to sign out?",
+    "signOutFailed": "Sign out failed: {error}",
+    "@signOutFailed": {
+        "description": "Message shown when sign out fails, with a placeholder for the error.",
+        "placeholders": {
+            "error": {
+                "type": "String",
+                "example": "Connection lost"
+            }
+        }
+    },
+    "navigateToRoute": "Navigate to {routeName} (Not implemented yet)",
+    "@navigateToRoute": {
+        "description": "Placeholder message for navigating to a route that is not yet implemented.",
+        "placeholders": {
+            "routeName": {
+                "type": "String",
+                "example": "Privacy Policy Screen"
+            }
+        }
+    },
+    "selectLanguageDialogTitle": "Select Language",
+    "english": "English",
+    "hindi": "Hindi",
+    "arabic": "Arabic",
+    "loadingLabel": "Loading...",
+    "helloUser": "Hello, {userName}!",
+    "@helloUser": {
+        "description": "Greeting message on the home screen, with a placeholder for the user's name.",
+        "placeholders": {
+            "userName": {
+                "type": "String",
+                "example": "Mama"
+            }
+        }
+    },
+    "manualSearchButtonLabel": "Manual Search",
+    "scanHistoryButtonLabel": "Scan History",
+    "profileButtonLabel": "Profile",
+    "bottomNavHome": "Home",
+    "bottomNavHistory": "History",
+    "bottomNavGuide": "Guides",
+    "bottomNavSettings": "Settings",
+    "bottomNavAskExpert": "Ask Expert",
+    "guideScreenTitle": "Pregnancy Guide",
+    "guideNutritionTitle": "Nutrition & Diet",
+    "guideNutritionTopicKeyNutrientsTitle": "Key Nutrients",
+    "guideNutritionTopicKeyNutrientsContent": "Focus on folic acid, iron, calcium, vitamin D, and protein. These are crucial for your baby's development and your health.",
+    "guideNutritionTopicFoodsToAvoidTitle": "Foods to Avoid",
+    "guideNutritionTopicFoodsToAvoidContent": "Avoid raw or undercooked meats, eggs, and seafood. Steer clear of unpasteurized dairy, certain types of fish high in mercury, and limit caffeine.",
+    "guideNutritionTopicHydrationTitle": "Hydration",
+    "guideNutritionTopicHydrationContent": "Drink plenty of water throughout the day (around 8-12 glasses). Proper hydration is essential for you and your baby.",
+    "guideMedicationsTitle": "Medications & Supplements",
+    "guideMedicationsTopicConsultDoctorTitle": "Always Consult Your Doctor",
+    "guideMedicationsTopicConsultDoctorContent": "Never take any medication, herbal supplement, or over-the-counter drug without first consulting your healthcare provider.",
+    "guideMedicationsTopicGenerallySafeTitle": "Generally Considered Safe (with Doctor's OK)",
+    "guideMedicationsTopicGenerallySafeContent": "Some medications like acetaminophen (Tylenol) for pain, certain antacids, and prenatal vitamins are often considered safe, but always confirm with your doctor.",
+    "guideLifestyleTitle": "Lifestyle & Wellbeing",
+    "guideLifestyleTopicExerciseTitle": "Exercise",
+    "guideLifestyleTopicExerciseContent": "Moderate exercise like walking, swimming, or prenatal yoga is generally beneficial. Avoid high-impact sports or activities with a risk of falling. Consult your doctor.",
+    "guideLifestyleTopicRestSleepTitle": "Rest & Sleep",
+    "guideLifestyleTopicRestSleepContent": "Aim for 7-9 hours of sleep. Listen to your body and rest when needed. Sleeping on your left side can improve circulation.",
+    "guideLifestyleTopicMorningSicknessTitle": "Managing Morning Sickness",
+    "guideLifestyleTopicMorningSicknessContent": "Eat small, frequent meals. Try bland foods like crackers. Ginger (tea, candies) and vitamin B6 may help. Stay hydrated. If severe, consult your doctor.",
+    "homeScreenGreeting": "Hello, {userName}!",
+    "@homeScreenGreeting": {
+        "description": "Greeting on the home screen",
+        "placeholders": {
+            "userName": {
+                "type": "String",
+                "example": "Mama"
+            }
+        }
+    },
+    "homeScreenScanButton": "Scan Food or Medicine",
+    "homeScreenManualSearch": "Manual Search",
+    "homeScreenScanHistory": "Scan History",
+    "homeScreenProfile": "Profile",
+    "welcomeScreenFeatureScan": "Scan any Food or Medicine",
+    "welcomeScreenFeatureResults": "Get Instant Safety Results",
+    "alreadyHaveAccountLoginLink": "Already have an account? Login",
+    "personalizeScreenTitle": "Personalize Your Experience",
+    "savePreferencesTooltip": "Save your preferences",
+    "personalizeScreenIntro": "Help us provide you with safer, personalized recommendations.",
+    "personalizeSectionTrimester": "Current Trimester",
+    "trimester1stTitle": "1st Trimester",
+    "trimester1stSubtitle": "Weeks 1-12",
+    "trimester2ndTitle": "2nd Trimester",
+    "trimester2ndSubtitle": "Weeks 13-26",
+    "trimester3rdTitle": "3rd Trimester",
+    "trimester3rdSubtitle": "Weeks 27-40",
+    "personalizeSectionDiet": "Dietary Preference",
+    "dietVegetarianLabel": "Vegetarian",
+    "dietNonVegLabel": "Non-Veg",
+    "dietVeganLabel": "Vegan",
+    "personalizeSectionAllergies": "Known Allergies",
+    "allergyNutsChip": "Nuts",
+    "allergyDairyChip": "Dairy",
+    "allergyEggsChip": "Eggs",
+    "allergySoyChip": "Soy",
+    "allergyNutsLabel": "Nuts",
+    "allergyDairyLabel": "Dairy",
+    "allergyEggsLabel": "Eggs",
+    "allergySoyLabel": "Soy",
+    "personalizeOtherAllergiesHint": "Type other allergies (e.g., Gluten, Shellfish)",
+    "savePreferencesButton": "Save & Continue",
+    "personalizeSaveSuccess": "Preferences saved successfully!",
+    "personalizeSaveFailed": "Failed to save preferences. Please try again.",
+    "pickFromGallery": "Pick from Gallery",
+    "takeAPhoto": "Take a Photo",
+    "profilePictureUploadFailed": "Profile picture upload failed. Please try again.",
+    "scanResultsScreenTitle": "Scan Results",
+    "riskLevelLabel": "Risk Level",
+    "@riskLevelLabel": {},
+    "explanationLabel": "Explanation",
+    "@explanationLabel": {},
+    "productLabel": "Product",
+    "consumptionAdviceLabel": "Consumption Advice",
+    "generalTipLabel": "General Tip",
+    "shareWithDoctorButton": "Share with Doctor",
+    "@shareWithDoctorButton": {},
+    "getSafeMamaAppPrompt": "Get the SafeMama app for instant pregnancy safety checks:",
+    "scanResultSubject": "SafeMama Scan Result: {productName}",
+    "@scanResultSubject": {
+        "placeholders": {
+            "productName": {
+                "type": "String"
+            }
+        }
+    },
+    "productScanned": "Scanned Product",
+    "unknown": "Unknown",
+    "notAvailable": "N/A",
+    "genericSaveError": "An error occurred. Please try again.",
+    "scanNotConsumableError": "This item is not consumable. Please scan a valid food or medicine item.",
+    "scanNetworkError": "Network error. Please check your connection and try again.",
+    "scanPermissionRequired": "Camera permission is required to scan products.",
+    "scanEnableInSettings": "Please enable it in your device's app settings.",
+    "scanCouldNotOpenSettings": "Could not open app settings.",
+    "scanNoCamerasFound": "No cameras found on this device.",
+    "scanCameraUnexpectedError": "An unexpected error occurred while setting up the camera.",
+    "scanFlashToggleError": "Could not toggle flash: {details}",
+    "@scanFlashToggleError": {
+        "placeholders": {
+            "details": {
+                "type": "String"
+            }
+        }
+    },
+    "scanFlashToggleFailed": "Error toggling flash.",
+    "scanRequestTimeout": "The request timed out. Please check your connection.",
+    "scanErrorUserNotLoggedIn": "User not logged in. Cannot save to history.",
+    "tapFrameToAlignPrompt": "Tap frame when product is aligned",
+    "scannedTodayAt": "Scanned today at {time}",
+    "@scannedTodayAt": {
+        "description": "Label for a scan performed today, showing the time.",
+        "placeholders": {
+            "time": {
+                "type": "String",
+                "example": "9:30 AM"
+            }
+        }
+    },
+    "scannedYesterday": "Scanned yesterday",
+    "@scannedYesterday": {
+        "description": "Label for a scan performed yesterday."
+    },
+    "homeErrorLoadingRecentScans": "Could not load recent scans.",
+    "@homeErrorLoadingRecentScans": {
+        "description": "Error message shown on home screen when recent scans fail to load."
+    },
+    "filterSaved": "Saved",
+    "@filterSaved": {
+        "description": "Label for the filter chip in Scan History screen to show only explicitly saved scan results."
+    },
+    "historyNoFilterResultsForCategory": "No items found for \"{categoryName}\".",
+    "@historyNoFilterResultsForCategory": {
+        "placeholders": {
+            "categoryName": {
+                "type": "String"
+            }
+        }
+    },
+    "historyNoScansYetSubtitle": "Your scanned items will appear here.",
+    "historyNoFilterResultsSubtitle": "No items match your search for \"{searchTerm}\".",
+    "@historyNoFilterResultsSubtitle": {
+        "description": "Subtitle shown when a history search with a filter yields no results for the given search term.",
+        "placeholders": {
+            "searchTerm": {
+                "type": "String",
+                "example": "milk"
+            }
+        }
+    },
+    "historyErrorRefresh": "Could not refresh history. Please try again.",
+    "alreadySavedMessage": "This item is already in your saved list.",
+    "scanResultSavedToList": "Saved to your list!",
+    "errorSavingToList": "Could not save to list: {errorDetails}",
+    "@errorSavingToList": {
+        "placeholders": {
+            "errorDetails": {
+                "type": "String"
+            }
+        }
+    },
+    "errorDownloadingImageForShare": "Could not download image for sharing.",
+    "scanResultMarkedAsSaved": "Result saved!",
+    "@scanResultMarkedAsSaved": {
+        "description": "Snackbar message shown when a scan result is successfully marked as explicitly saved by the user."
+    },
+    "scanResultButtonSaved": "Saved",
+    "@scanResultButtonSaved": {
+        "description": "Text for the 'Save Result' button on the ScanResultsScreen after it has been successfully saved."
+    },
+    "goToScanButtonLabel": "Scan Product",
+    "@goToScanButtonLabel": {
+        "description": "Label for a button that navigates the user to the scanning screen, typically shown when history is empty."
+    },
+    "tryDifferentFilterOrClear": "Try a different filter or clear the current one.",
+    "@tryDifferentFilterOrClear": {
+        "description": "Message shown in scan history when the current filter/search yields no results, suggesting user to change criteria."
+    },
+    "historyRefreshed": "History refreshed",
+    "@historyRefreshed": {
+        "description": "Snackbar message indicating that the scan history list has been successfully refreshed."
+    },
+    "retryButtonLabel": "Retry",
+    "@retryButtonLabel": {
+        "description": "Label for a button that allows the user to retry an action, e.g., loading data."
+    },
+    "mobileNumberLabel": "Mobile Number",
+    "@mobileNumberLabel": {
+        "description": "Label for mobile number input"
+    },
+    "countryLabel": "Country",
+    "selectCountryPrompt": "Select your country",
+    "passwordMinStrengthHint": "Minimum 8 characters, 1 uppercase, 1 number.",
+    "@passwordMinStrengthHint": {
+        "description": "Hint for password strength requirements"
+    },
+    "agreeToTermsCheckbox": "I agree to the",
+    "@agreeToTermsCheckbox": {
+        "description": "Text before terms and conditions links"
+    },
+    "termsAndConditionsLink": "Terms & Conditions",
+    "@termsAndConditionsLink": {
+        "description": "Link text for Terms & Conditions"
+    },
+    "privacyPolicyLink": "Privacy Policy",
+    "@privacyPolicyLink": {
+        "description": "Link text for Privacy Policy"
+    },
+    "mustAgreeToTermsError": "You must agree to the Terms & Conditions and Privacy Policy to continue.",
+    "@mustAgreeToTermsError": {
+        "description": "Error when T&C not checked"
+    },
+    "otpSentSuccessfully": "OTP sent successfully!",
+    "@otpSentSuccessfully": {
+        "description": "Success message when OTP is sent"
+    },
+    "failedToSendOtp": "Failed to send OTP. Please check the number and try again.",
+    "@failedToSendOtp": {
+        "description": "Error message when OTP sending fails"
+    },
+    "orSignUpWith": "Or sign up with",
+    "@orSignUpWith": {
+        "description": "Text separating email signup from social signup"
+    },
+    "otpVerificationTitle": "OTP Verification",
+    "enterOtpSentTo": "Enter the OTP sent to {phoneNumber}",
+    "@enterOtpSentTo": {
+        "placeholders": {
+            "phoneNumber": {
+                "type": "String"
+            }
+        }
+    },
+    "verifyOtpButtonLabel": "Verify OTP",
+    "didNotReceiveOtpPrompt": "Didn't receive the OTP?",
+    "resendOtpLink": "Resend OTP",
+    "resendOtpTimer": "Resend OTP in {minutes}:{seconds}",
+    "@resendOtpTimer": {
+        "placeholders": {
+            "minutes": {
+                "type": "String"
+            },
+            "seconds": {
+                "type": "String"
+            }
+        }
+    },
+    "otpResentSuccessfully": "OTP resent successfully!",
+    "failedToResendOtp": "Failed to resend OTP. Please try again.",
+    "enterCompleteOtpError": "Please enter the complete 6-digit OTP.",
+    "invalidOtpError": "Invalid OTP. Please try again.",
+    "profileCreationError": "Failed to create your profile: {error}",
+    "@profileCreationError": {
+        "placeholders": {
+            "error": {
+                "type": "String"
+            }
+        }
+    },
+    "signupFailedNoUser": "Signup failed. Could not create user.",
+    "enterFullNameError": "Please enter your full name.",
+    "@enterFullNameError": {
+        "description": "Error for empty full name"
+    },
+    "fullNameMinLengthError": "Full name must be at least 3 characters.",
+    "@fullNameMinLengthError": {
+        "description": "Error for full name too short"
+    },
+    "searchCountryLabel": "Search country",
+    "@searchCountryLabel": {
+        "description": "Label for country search in picker"
+    },
+    "searchCountryHint": "Start typing to search country",
+    "@searchCountryHint": {
+        "description": "Hint for country search in picker"
+    },
+    "enterMobileNumberError": "Please enter a valid mobile number.",
+    "@enterMobileNumberError": {
+        "description": "Error for empty mobile number"
+    },
+    "enterValidMobileNumberError": "Please enter a valid mobile number (7-15 digits).",
+    "@enterValidMobileNumberError": {
+        "description": "Error for invalid mobile number format"
+    },
+    "passwordMinLengthError": "Password must be at least {minLength} characters long.",
+    "@passwordMinLengthError": {
+        "description": "Error for password too short",
+        "placeholders": {
+            "minLength": {
+                "type": "int",
+                "example": "8"
+            }
+        }
+    },
+    "passwordUppercaseError": "Password must contain an uppercase letter.",
+    "@passwordUppercaseError": {
+        "description": "Error for missing uppercase in password"
+    },
+    "passwordNumberError": "Password must contain a number.",
+    "@passwordNumberError": {
+        "description": "Error for missing number in password"
+    },
+    "otpVerifiedSuccessfully": "OTP verified successfully!",
+    "featureNotImplemented": "This feature is not yet implemented.",
+    "@featureNotImplemented": {
+        "description": "Placeholder for unimplemented features"
+    },
+    "unexpectedError": "An unexpected error occurred: {details}",
+    "@unexpectedError": {
+        "description": "Generic error message with details",
+        "placeholders": {
+            "details": {
+                "type": "String",
+                "example": "Connection timed out"
+            }
+        }
+    },
+    "signInFailedError": "Sign-in failed: {details}",
+    "@signInFailedError": {
+        "placeholders": {
+            "details": {
+                "type": "String"
+            }
+        }
+    },
+    "tooManyRequestsError": "Too many requests. Please try again later.",
+    "@tooManyRequestsError": {
+        "description": "Error message shown when the server reports too many requests."
+    },
+    "countryIsRequiredError": "Country selection is required.",
+    "mobileNumberRequiredLabel": "Mobile Number (Required for India)",
+    "mobileNumberOptionalLabel": "Mobile Number (Optional)",
+    "enterOtpToFinalizeSignup": "Enter OTP to finalize your signup.",
+    "createAccountToGetStarted": "Create an account to get started.",
+    "sendOtpButtonLabel": "Verify with WhatsApp OTP",
+    "profileUpdateError": "Profile update failed: {error}",
+    "@profileUpdateError": {
+        "placeholders": {
+            "errorDetails": {
+                "type": "String"
+            }
+        }
+    },
+    "selectCountryPromptSocial": "Please select your country before social sign-in.",
+    "loginFailedCheckCredentials": "Login failed. Please check your email and password.",
+    "verifyMobileNumberTitle": "Verify Mobile Number",
+    "verifyMobileIndiaPrompt": "To continue, please verify your Indian mobile number.",
+    "enterValidIndianMobileError": "Enter a valid 10-digit Indian mobile number.",
+    "sendOtpButtonLabelShort": "Send OTP",
+    "verifyOtpAndContinueButton": "Verify & Continue",
+    "phoneNumberVerifiedSuccess": "Phone number verified successfully!",
+    "profileUpdateFailedError": "Failed to update profile with phone verification.",
+    "personalizeTrimesterRequiredError": "Please select your current trimester.",
+    "enterMobileNumberHint": "Enter your 10-digit mobile number",
+    "skipForNowButton": "Skip for now",
+    "bookmarkRemovedMessage": "Removed from your list.",
+    "errorUpdatingBookmark": "Error updating bookmark: {errorDetails}",
+    "@errorUpdatingBookmark": {
+        "placeholders": {
+            "errorDetails": {
+                "type": "String"
+            }
+        }
+    },
+    "removeBookmarkButtonLabel": "Remove from List",
+    "addBookmarkButtonLabel": "Save to List",
+    "loginToScan": "Please log in to scan products.",
+    "deviceScanLimitTitle": "Device Scan Limit Reached",
+    "deviceScanLimitMessage": "This device has reached its free scan limit with other accounts. Please log in with an existing account or upgrade to premium for unlimited scans.",
+    "buttonUpgradeToPremium": "Upgrade to Premium",
+    "paymentScreenNotImplemented": "Payment screen not yet implemented.",
+    "premiumFeatureDialogTitle": "Unlock {featureName}",
+    "@premiumFeatureDialogTitle": {
+        "description": "Title for premium feature paywall dialog",
+        "placeholders": {
+            "featureName": {
+                "type": "String",
+                "example": "Detailed Analysis"
+            }
+        }
+    },
+    "premiumFeatureDialogMessage": "Upgrade to Premium to access the {featureName} feature and get the best out of SafeMama!",
+    "@premiumFeatureDialogMessage": {
+        "description": "Message for premium feature paywall dialog",
+        "placeholders": {
+            "featureName": {
+                "type": "String",
+                "example": "Detailed Analysis"
+            }
+        }
+    },
+    "scanLimitReachedTitle": "Scan Limit Reached",
+    "@scanLimitReachedTitle": {
+        "description": "Title for the dialog when free scan limit is reached"
+    },
+    "scanLimitReachedMessage": "You've used all your {count} free scans. Upgrade to Premium for unlimited scans and more features!",
+    "@scanLimitReachedMessage": {
+        "description": "Message shown when free user reaches scan limit",
+        "placeholders": {
+            "count": {
+                "type": "String"
+            }
+        }
+    },
+    "detailedAnalysisFeatureName": "Detailed Analysis",
+    "viewDetailedAnalysisPremiumButton": "Full Analysis (Premium ✨)",
+    "scanResultReadMoreButton": "View Full Analysis",
+    "filterHistoryTooltip": "Filter history",
+    "advancedFiltersPremiumFeatureTitle": "Advanced Filters",
+    "advancedFiltersPremiumFeatureMessage": "Upgrade to premium to filter your scan history by risk level and bookmarks.",
+    "upgradeButtonLabel": "Upgrade",
+    "tagCaution": "Caution",
+    "filterScanHistoryTitle": "Filter Scan History",
+    "filterByRiskLevelLabel": "By Risk Level",
+    "filterShowBookmarkedOnlyLabel": "Show Bookmarked Only",
+    "buttonClearFilters": "Clear Filters",
+    "buttonApplyFilters": "Apply Filters",
+    "historyNoResultsForAppliedFilters": "No results match your current filters",
+    "homeDashboardAskExpert": "Ask an Expert",
+    "@homeDashboardAskExpert": {
+        "description": "Title for the 'Ask an Expert' dashboard card on the home screen and used as feature name for paywall"
+    },
+    "homeDashboardAskExpertSub": "AI-powered Q&A",
+    "@homeDashboardAskExpertSub": {
+        "description": "Subtitle for the 'Ask an Expert' dashboard card on the home screen"
+    },
+    "askAnExpertTitle": "Ask an Expert",
+    "@askAnExpertTitle": {
+        "description": "App bar title for the Ask an Expert screen"
+    },
+    "askExpertDisclaimer": "Ask our AI Expert about pregnancy, nutrition, or wellness. This is not a substitute for medical advice.",
+    "@askExpertDisclaimer": {
+        "description": "Disclaimer text on the Ask an Expert screen"
+    },
+    "typeYourQuestionHint": "Type your question here...",
+    "@typeYourQuestionHint": {
+        "description": "Hint text for the question input field on Ask an Expert screen"
+    },
+    "failedToGetAnswer": "Failed to get an answerc. Please try again.",
+    "@failedToGetAnswer": {
+        "description": "Error message when the Ask an Expert feature fails to retrieve an answer"
+    },
+    "noGuidesAvailable": "No guides available at the moment.",
+    "@noGuidesAvailable": {
+        "description": "Message shown when no pregnancy guides are found"
+    },
+    "pregnancyGuideTitle": "Pregnancy Guide",
+    "@pregnancyGuideTitle": {
+        "description": "Title for the pregnancy guide screen"
+    },
+    "userProfileNotLoadedError": "User profile could not be loaded. Please try again.",
+    "premiumFeatureLocked": "This feature is for premium users only. Please upgrade to access.",
+    "aiGuideGenerationFailedError": "Failed to generate AI guide for {topic}. Showing available version.",
+    "@aiGuideGenerationFailedError": {
+        "description": "Error message when AI guide generation fails for a specific topic, showing the topic name.",
+        "placeholders": {
+            "topic": {
+                "type": "String",
+                "example": "Nutrition During Pregnancy"
+            }
+        }
+    },
+    "genericError": "An error occurred: {details}",
+    "@genericError": {
+        "description": "A generic error message that includes specific details.",
+        "placeholders": {
+            "details": {
+                "type": "String",
+                "example": "Network connection failed."
+            }
+        }
+    },
+    "premiumFeaturesInclude": "Premium Benefits Include:",
+    "chooseYourPlanButton": "Choose Your Plan",
+    "restorePurchasesButton": "Restore Purchases",
+    "welcome_title_new": "Welcome to SafeMama!",
+    "welcome_subtitle_new": "Your trusted companion for a healthy pregnancy journey. Let's get started by personalizing your experience.",
+    "get_started_button": "Get Started",
+    "whichTrimesterQuestion": "Which trimester are you currently in?",
+    "trimesterFirst": "First Trimester",
+    "trimesterSecond": "Second Trimester",
+    "trimesterThird": "Third Trimester",
+    "trimesterPlanningOrEarly": "Planning / Early Stages",
+    "dietaryPreferencesTitle": "Dietary Preferences",
+    "whatAreYourDietaryPreferencesQuestion": "What are your dietary preferences?",
+    "dietNonVegetarian": "Non-Vegetarian",
+    "dietVegetarian": "Vegetarian",
+    "dietVegan": "Vegan",
+    "dietPescatarian": "Pescatarian",
+    "continueButton": "Continue",
+    "knownAllergiesTitle": "Known Allergies",
+    "anyKnownFoodAllergiesQuestion": "Do you have any known food allergies?",
+    "helpsProvideSaferRecommendations": "This helps us provide safer recommendations.",
+    "allergyNuts": "Nuts",
+    "allergyDairy": "Dairy",
+    "allergyGluten": "Gluten",
+    "allergySoy": "Soy",
+    "allergySeafood": "Seafood",
+    "allergyEggs": "Eggs",
+    "otherAllergiesLabel": "Other Allergies (Optional)",
+    "otherAllergiesHint": "e.g., Sesame, Mustard (comma-separated)",
+    "yourMainGoalTitle": "Your Main Goal",
+    "whatIsYourMainGoalQuestion": "What's your main goal for using SafeMama?",
+    "goalScanItems": "Scan items to check safety",
+    "goalGetGuidance": "Get daily pregnancy guidance",
+    "goalUnderstandNutrition": "Understand nutritional needs",
+    "goalAskExpertAI": "Ask expert questions (AI)",
+    "privacyMattersTitle": "Your Privacy Matters to Us",
+    "privacyConsentSubtext": "The information you provide helps us personalize SafeMama just for you. We're committed to keeping your data secure. You'll be able to review our full Privacy Policy before creating your account.",
+    "nextCreateAccountButton": "Next: Create Your Account",
+    "createAccountTitle": "Create Account",
+    "signInTitle": "Sign In",
+    "signUpButton": "Sign Up",
+    "signInButton": "Sign In",
+    "fullNameLabel": "Full Name",
+    "validatorFullNameRequired": "Full name is required.",
+    "emailAddressLabel": "Email Address",
+    "validatorEmailRequired": "Email is required.",
+    "validatorInvalidEmail": "Please enter a valid email.",
+    "selectCountryHint": "Select Your Country",
+    "mobileNumberLabelOptional": "Mobile Number (Optional for OTP)",
+    "validatorMobileRequiredForIndia": "Mobile number is required for India.",
+    "passwordLabel": "Password",
+    "validatorPasswordRequired": "Password is required.",
+    "termsAndPolicyAgreement": "By signing up, you agree to our Terms & Conditions and Privacy Policy.",
+    "signUpAndContinueButton": "Sign Up & Continue",
+    "forgotPasswordLink": "Forgot Password?",
+    "orContinueWith": "Or continue with",
+    "signInWithGoogle": "Sign In with Google",
+    "signupSuccessCheckEmail": "Signup successful! Please check your email to verify your account.",
+    "signupFailedError": "Signup failed",
+    "loginFailedInvalidCredentials": "Login failed. Please check your email and password.",
+    "loginFailedError": "Login failed",
+    "googleSignInFailed": "Google Sign-In failed",
+    "yourMobileNumberDefaultText": "your mobile number",
+    "loadingButtonText": "Loading...",
+    "verifyAndCreateAccountButton": "Verify & Create Account",
+    "backToEditDetailsLink": "Back to Edit Details",
+    "chooseVerificationMethodTitle": "Choose your verification method",
+    "createAccountWithEmailLabel": "Create Account with Email",
+    "orDividerText": "------ OR ------",
+    "alreadyHaveAccountPrompt": "Already have an account?",
+    "signupSuccessAccountCreatedSignIn": "Account created successfully! Please sign in.",
+    "@signupSuccessAccountCreatedSignIn": {
+        "description": "Message shown after successful account creation via email path, prompting user to sign in."
+    },
+    "genericSearchError": "An error occurred while searching.",
+    "@genericSearchError": {
+        "description": "Generic error message displayed when a search operation fails."
+    },
+    "scanLogFailedError": "Failed to save scan information. Please try again.",
+    "@scanLogFailedError": {
+        "description": "Error message when logging a scan to history fails."
+    },
+    "scanErrorUserProfileNotFound": "Error: User profile not found. Please re-login.",
+    "@scanErrorUserProfileNotFound": {
+        "description": "Error message when user profile is unexpectedly missing during a scan operation."
+    },
+    "scanFreeScansExhaustedTitle": "Free Scans Exhausted",
+    "@scanFreeScansExhaustedTitle": {
+        "description": "Title for the dialog when a free user has used all their scans."
+    },
+    "scanFreeScansExhaustedMessage": "You have used all your {scanLimit} free scans. Upgrade to Premium for unlimited scans and more features!",
+    "@scanFreeScansExhaustedMessage": {
+        "description": "Message for the dialog when free scans are used up, includes the limit.",
+        "placeholders": {
+            "scanLimit": {
+                "type": "int",
+                "example": "4"
+            }
+        }
+    },
+    "genericErrorLoadingScan": "Oops! We couldn't load the scan details.",
+    "@genericErrorLoadingScan": {
+        "description": "Generic error message shown when scan results fail to load on the results screen."
+    },
+    "genericErrorLoadingScanDetails": "Error processing scan details. Please try again.",
+    "genericErrorInvalidScanData": "Invalid scan data received. Please go back and try scanning again.",
+    "scanResultsTitle": "Scan Result",
+    "@scanResultsTitle": {},
+    "scanNotFound": "Scan not found.",
+    "@scanNotFound": {},
+    "emailAlreadyRegisteredError": "This email address is already registered. Please try signing in.",
+    "tryAgainButtonLabel": "Try Again",
+    "emailNotConfirmedError": "Your email is not confirmed. Please check your inbox or resend confirmation.",
+    "@emailNotConfirmedError": {},
+    "tipFirstTrimester": "Focus on folic acid intake. It's vital for your baby's early development!",
+    "@tipFirstTrimester": {
+      "description": "Tip for the first trimester"
+    },
+    "tipSecondTrimester": "Feeling more energetic? Gentle exercise like walking is great for you and baby.",
+    "@tipSecondTrimester": {
+      "description": "Tip for the second trimester"
+    },
+    "tipThirdTrimester": "Prepare your hospital bag and learn about signs of labor. You're getting close!",
+    "@tipThirdTrimester": {
+      "description": "Tip for the third trimester"
+    },
+    "tipGeneral": "Stay positive and listen to your body. Every day is a step closer to meeting your little one!",
+    "@tipGeneral": {
+      "description": "A general encouraging tip for pregnancy"
+    },
+    "tipForYouToday": "💡 Tip for You Today",
+    "@tipForYouToday": {
+        "description": "Title for the tip of the day card on the home screen"
+    },
+    "homePregnancyJourneyTitle": "Your Journey",
+    "@homePregnancyJourneyTitle": {
+        "description": "Title for the pregnancy journey/calendar section on the home screen"
+    },
+    "homeCalendarComingSoon": "Full calendar view coming soon!",
+    "@homeCalendarComingSoon": {
+        "description": "Placeholder text for the upcoming calendar feature"
+    },
+    "onboarding_slide1_title": "Welcome to SafeMama",
+    "onboarding_slide1_subtitle": "Your trusted companion for a healthy and informed pregnancy journey.",
+    "onboarding_slide2_title": "Personalized For You",
+    "onboarding_slide2_subtitle": "Access tailored guidance, track scans, and explore expert tips.",
+    "onboarding_slide3_title": "Instant Safety Checks",
+    "onboarding_slide3_subtitle": "Quickly scan food and medicine labels for immediate peace of mind.",
+    "onboarding_slide4_title": "Clear, Actionable Advice",
+    "onboarding_slide4_subtitle": "Understand safety with easy-to-read results and helpful information.",
+    "nextButton": "Next",
+    "@nextButton": {
+      "description": "Text for the next button in onboarding"
+    },
+    "aiPersonalizedGuideScreenTitle": "AI Personalized Guide",
+    "@aiPersonalizedGuideScreenTitle": {
+        "description": "Title for the AI Personalized Guide screen"
+    },
+    "aiPersonalizedGuideComingSoon": "Your AI-generated personalized pregnancy guide content will appear here soon!\n(Premium Feature - AI generation backend logic is pending)",
+    "@aiPersonalizedGuideComingSoon": {
+        "description": "Placeholder text for the AI Personalized Guide screen content"
+    },
+    "journeyingBeyondDueDate": "Journeying beyond due date!",
+    "@journeyingBeyondDueDate": {
+        "description": "Status message when pregnancy is past the due date"
+    },
+    "dueToday": "Due today!",
+    "@dueToday": {
+        "description": "Status message when pregnancy due date is today"
+    },
+    "approxDaysLeft": "Approx. {days} days left!",
+    "@approxDaysLeft": {
+        "description": "Shows approximate days left until due date",
+        "placeholders": {
+            "days": {
+                "type": "int",
+                "example": "10"
+            }
+        }
+    },
+    "currentTrimesterStatus": "You're in your {trimesterDisplay}.",
+    "@currentTrimesterStatus": {
+        "description": "Displays the current trimester status",
+        "placeholders": {
+            "trimesterDisplay": {
+                "type": "String",
+                "example": "First Trimester"
+            }
+        }
+    },
+    "approxWeek": "Approx. Week: {currentWeek}",
+    "@approxWeek": {
+        "description": "Displays the approximate current week of pregnancy",
+        "placeholders": {
+            "currentWeek": {
+                "type": "String",
+                "example": "10"
+            }
+        }
+    },
+    "calendarSnippetInfoComingSoon": "More info for {date} coming soon!",
+    "@calendarSnippetInfoComingSoon": {
+        "description": "Placeholder for calendar snippet daily info",
+        "placeholders": {
+            "date": {
+                "type": "String",
+                "example": "Jan 15"
+            }
+        }
+    },
+    "calendarSnippetTitle": "Your Week at a Glance",
+    "@calendarSnippetTitle": {
+        "description": "Title for the pregnancy calendar snippet"
+    },
+    "drawerAiPersonalizedGuide": "AI Personalized Guide",
+    "@drawerAiPersonalizedGuide": {
+        "description": "Text for the AI Personalized Guide item in the app drawer"
+    },
+    "aiGuideErrorTopicEmpty": "Please enter a topic for the guide.",
+    "aiGuideErrorInvalidResponse": "Invalid response format from the server.",
+    "aiGuideErrorFailedToGenerate": "Failed to generate guide. Server responded with status: {statusCode}.",
+    "@aiGuideErrorFailedToGenerate": {
+        "placeholders": {
+            "statusCode": {
+                "type": "String"
+            }
+        }
+    },
+    "aiGuideTopicInputLabel": "Enter guide topic",
+    "aiGuideTopicInputHint": "e.g., Nutrition in first trimester",
+    "clearInputTooltip": "Clear input",
+    "aiGuideGenerateButton": "Generate Guide",
+    "aiGuideInitialPrompt": "Enter a topic above and tap 'Generate Guide' to get your personalized AI insights.",
+    "manualSearchScreenTitle": "Manual Search",
+    "searchButtonLabel": "Search",
+    "premiumSearchComingSoonTitle": "AI-Powered Search for \"{searchTerm}\"",
+    "@premiumSearchComingSoonTitle": {
+        "description": "Title for premium search coming soon message, includes search term",
+        "placeholders": {
+            "searchTerm": {
+                "type": "String"
+            }
+        }
+    },
+    "premiumSearchComingSoonMessage": "Full database results with AI insights coming soon for Premium users!",
+    "freeSearchLimitMessage": "You're searching your scan history. For a full AI-powered database search, upgrade to Premium!",
+    "buttonUpgrade": "Upgrade",
+    "searchNoResultsInHistory": "No results found in your scan history for \"{searchTerm}\".",
+    "@searchNoResultsInHistory": {
+        "description": "Message when no results are found in user's history for a search term",
+        "placeholders": {
+            "searchTerm": {
+                "type": "String"
+            }
+        }
+    },
+    "searchItemNoAdditionalInfo": "No additional information available.",
+    "aiGuideErrorUnknown": "An unknown error occurred while generating the guide.",
+    "@aiGuideErrorUnknown": {
+        "description": "Error message when an unknown error occurs during AI guide generation."
+    },
+    "aiGuideErrorUnexpected": "An unexpected error occurred: {details}",
+    "@aiGuideErrorUnexpected": {
+        "description": "Error message for unexpected errors during AI guide generation, with a placeholder for details.",
+        "placeholders": {
+            "details": {
+                "type": "String",
+                "example": "Network timeout"
+            }
+        }
+    },
+    "modalOptionBookmarked": "Bookmarked Items",
+    "@modalOptionBookmarked": {},
+    "modalOptionScanFood": "Scan Food / Medicine",
+    "@modalOptionScanFood": {},
+    "modalOptionRecentScans": "Recent Scans",
+    "@modalOptionRecentScans": {},
+    "modalOptionGuide": "Pregnancy Guide",
+    "@modalOptionGuide": {},
+    "fabTooltipMain": "Quick Actions",
+    "@fabTooltipMain": {
+        "description": "Tooltip for the main floating action button that opens more options"
+    },
+    "preScanSlide1Title": "Clear View is Key",
+    "@preScanSlide1Title": {
+        "description": "Title for the first pre-scan guide slide"
+    },
+    "preScanSlide1Subtitle": "Ensure the item is well-lit and in focus.",
+    "@preScanSlide1Subtitle": {
+        "description": "Subtitle for the first pre-scan guide slide"
+    },
+    "preScanSlide2Title": "Capture All Text",
+    "@preScanSlide2Title": {
+        "description": "Title for the second pre-scan guide slide"
+    },
+    "preScanSlide2Subtitle": "For labels, make sure all ingredients are visible.",
+    "@preScanSlide2Subtitle": {
+        "description": "Subtitle for the second pre-scan guide slide"
+    },
+    "preScanSlide3Title": "One Item for Best Results",
+    "@preScanSlide3Title": {
+        "description": "Title for the third pre-scan guide slide"
+    },
+    "preScanSlide3Subtitle": "Scan individual items for accurate analysis.",
+    "@preScanSlide3Subtitle": {
+        "description": "Subtitle for the third pre-scan guide slide"
+    },
+    "preScanGuideScreenTitle": "Quick Scan Guide",
+    "@preScanGuideScreenTitle": {
+        "description": "Title for the Pre-Scan Guide screen"
+    },
+    "preScanGuideStartScanningButton": "Start Scanning",
+    "@preScanGuideStartScanningButton": {
+        "description": "Button text on the last pre-scan guide slide to proceed to scanning"
+    },
+    "profileDueDateLabel": "Due Date",
+    "profileNoDueDateSet": "Tap to set your due date",
+    "profileSetDueDateButton": "Set Due Date",
+    "profileChangeDueDateButton": "Change Due Date",
+    "profileClearDueDateButton": "Clear Due Date",
+    "okButtonLabel": "OK",
+    "homeCalendarSnippetTitle": "Your Pregnancy Journey",
+    "homeCalendarSnippetAddDueDatePrompt": "Add your due date in Profile Settings to get weekly updates on your baby's development!",
+    "homeCalendarSnippetGoToSettingsButton": "Go to Settings",
+    "homeCalendarSnippetWeekDataUnavailable": "Information for Week {weekNumber} is currently unavailable.",
+    "@homeCalendarSnippetWeekDataUnavailable": {
+        "description": "Message shown when data for a specific pregnancy week is not found.",
+        "placeholders": {
+            "weekNumber": {
+                "type": "String",
+                "example": "16"
+            }
+        }
+    },
+    "homeCalendarSnippetCurrentWeekTitle": "Week {weekNumber}",
+    "@homeCalendarSnippetCurrentWeekTitle": {
+        "description": "Title for the current week in the pregnancy calendar snippet.",
+        "placeholders": {
+            "weekNumber": {
+                "type": "String",
+                "example": "16"
+            }
+        }
+    },
+    "homeCalendarTapForMore": "Tap for more details",
+    "homeCalendarBabySizeLabel": "Baby's Size",
+    "homeCalendarKeyDevelopmentLabel": "Key Development",
+    "homeCalendarSnippetWeekDetailTitle": "Week {weekNumber} Highlights",
+    "@homeCalendarSnippetWeekDetailTitle": {
+        "description": "Title for the dialog showing weekly pregnancy details.",
+        "placeholders": {
+            "weekNumber": {
+                "type": "String",
+                "example": "16"
+            }
+        }
+    },
+    "closeButton": "Close",
+    "errorProcessingScan": "Error processing scan. Please try again.",
+    "@errorProcessingScan": {},
+    "commonDialogCloseButton": "Close",
+    "homeCalendarSnippetBabySize": "Baby is about the size of a {sizeComparison}.",
+    "@homeCalendarSnippetBabySize": {
+        "description": "Text describing baby's size.",
+        "placeholders": {
+            "sizeComparison": {
+                "type": "String",
+                "example": "lemon"
+            }
+        }
+    },
+    "homeCalendarDialogBabySizeLabel": "Baby's Size:",
+    "homeCalendarDialogDevelopmentHighlightsLabel": "Baby's Development:",
+    "cameraScreenTitle": "Scan Item",
+    "@cameraScreenTitle": {
+        "description": "Title for the camera scanning screen"
+    },
+    "cameraModePhoto": "Photo",
+    "@cameraModePhoto": {
+        "description": "Label for the 'Photo' mode in the camera screen"
+    },
+    "cameraModeBarcode": "Barcode",
+    "@cameraModeBarcode": {
+        "description": "Label for the 'Barcode' mode in the camera screen"
+    },
+    "cameraModeLabel": "Label",
+    "@cameraModeLabel": {
+        "description": "Label for the 'Label' (OCR) mode in the camera screen"
+    },
+    "cameraModeGallery": "Gallery",
+    "@cameraModeGallery": {
+        "description": "Label for selecting an image from the gallery in the camera screen"
+    },
+    "cameraOverlayAlignLabel": "Align label within the frame",
+    "@cameraOverlayAlignLabel": {
+        "description": "Instructional text overlay for label scanning mode (already existed but re-verified)"
+    },
+    "loginRequiredError": "Login is required to perform this action.",
+    "@loginRequiredError": {},
+    "premiumFeatureDialogUnlockPrompt": "Upgrade to unlock:",
+    "@premiumFeatureDialogUnlockPrompt": {},
+    "commonDialogCancelButton": "Cancel",
+    "@commonDialogCancelButton": {},
+    "premiumFeatureDialogUpgradeButton": "Upgrade Now",
+    "@premiumFeatureDialogUpgradeButton": {},
+    "barcodeDetectedTitle": "Barcode Detected",
+    "@barcodeDetectedTitle": {
+        "description": "Title for the dialog when a barcode is successfully detected."
+    },
+    "barcodeValueLabel": "Value",
+    "@barcodeValueLabel": {
+        "description": "Label for the detected barcode's value in a dialog or display."
+    },
+    "commonDialogOkButton": "OK",
+    "@commonDialogOkButton": {
+        "description": "Text for a generic 'OK' button in dialogs."
+    },
+    "cameraGalleryModeActive": "Select image from gallery...",
+    "@cameraGalleryModeActive": {
+        "description": "Message displayed when the camera screen is in gallery selection mode."
+    },
+    "cameraOverlayAlignBarcode": "Center barcode in the box",
+    "@cameraOverlayAlignBarcode": {
+        "description": "Instructional text overlay for barcode scanning mode."
+    },
+    "searchNoResultsMessage": "No results found for '{searchTerm}'.",
+    "@searchNoResultsMessage": {
+      "description": "Message shown when no results are found in premium search.",
+      "placeholders": {
+        "searchTerm": {
+          "type": "String",
+          "example": "milk"
+        }
+      }
+    },
+    "unknownProductName": "Unknown Product",
+    "appLoadingMessage": "Preparing your journey...",
+    "@appLoadingMessage": {
+        "description": "Message shown during app loading or initial setup."
+    },
+    "processingScanMessage": "Processing your scan...",
+    "@processingScanMessage": {
+        "description": "Message shown while the app is processing a scanned image or barcode."
+    },
+    "appLoadingMessage1": "Hold on, we're checking what's best for you and your baby...",
+    "@appLoadingMessage1": {},
+    "appLoadingMessage2": "Analyzing vital information...",
+    "@appLoadingMessage2": {},
+    "appLoadingMessage3": "Preparing your personalized guidance...",
+    "@appLoadingMessage3": {},
+    "appLoadingMessage4": "Almost there, excitement is building!",
+    "@appLoadingMessage4": {},
+    "scanResultErrorNoIdDetails": "Could not load scan results: Invalid or missing scan information. Please try scanning again.",
+    "@scanResultErrorNoIdDetails": {
+        "description": "Error message when scan results cannot be loaded due to missing ID or details."
+    },
+    "genericErrorProcessingRequest": "Cannot process request: data unavailable.",
+
+    "unknownText": "Unknown",
+    "detailedAnalysisNoSummary": "No summary provided for this product.",
+    "unknownIngredient": "Unknown Ingredient",
+    "unknownAlternative": "Unknown Alternative",
+    "detailedAnalysisErrorDecoding": "Error: Could not process the analysis data.",
+    "detailedAnalysisNotAvailable": "Detailed analysis is not available for this product.",
+    "detailedAnalysisTitle": "Detailed Analysis",
+    "specificConcernsTitle": "Specific Concerns for Pregnancy",
+    "referencesTitle": "References & Sources",
+    "ingredientsAnalysisTitle": "Ingredients Analysis",
+    "notesLabel": "Notes",
+    "detailedAnalysisNoNotes": "No additional notes available.",
+    "nutritionalInformationTitle": "Nutritional Information",
+    "suggestedAlternativesTitle": "Suggested Alternatives",
+    "bookmarkingNotAvailableForSearch": "Bookmarking directly from search results is not yet available. View the full scan to bookmark.",
+    "@bookmarkingNotAvailableForSearch": {},
+    "errorToggleBookmark": "Failed to update bookmark",
+    "@errorToggleBookmark": {},
+    "itemBookmarkedSuccessfully": "Item bookmarked successfully!",
+    "@itemBookmarkedSuccessfully": {},
+    "itemUnbookmarkedSuccessfully": "Item unbookmarked successfully!",
+    "@itemUnbookmarkedSuccessfully": {},
+    "ingredientsLabel": "Ingredients",
+    "@ingredientsLabel": {},
+    "nutrientsLabel": "Nutrients",
+    "@nutrientsLabel": {},
+    "warningsLabel": "Warnings",
+    "@warningsLabel": {},
+    "alternativesLabel": "Alternatives",
+    "@alternativesLabel": {},
+    "detailedAnalysisButton": "View Detailed Analysis",
+    "@detailedAnalysisButton": {},
+    "errorLoadingScanDetails": "Could not load scan details.",
+    "@errorLoadingScanDetails": {},
+    "bookmarkItemTooltip": "Bookmark this item",
+    "@bookmarkItemTooltip": {},
+    "unbookmarkItemTooltip": "Remove bookmark",
+    "@unbookmarkItemTooltip": {},
+  "tagNeedsMoreInfo": "More Info Needed",
+  "@tagNeedsMoreInfo": {},
+  "categoryLabel": "Category",
+  "@categoryLabel": {},
+  "cameraGalleryModeActiveWhenProcessing": "Processing selected image...",
+  "@cameraGalleryModeActiveWhenProcessing": {},
+
+    "processingScanMessage1": "Processing your scan...",
+    "@processingScanMessage1": {
+        "description": "First message shown during scan processing."
+    },
+    "processingScanMessage2": "Analyzing image details...",
+    "@processingScanMessage2": {
+        "description": "Second message shown during scan processing."
+    },
+    "processingScanMessage3": "Checking safety information...",
+    "@processingScanMessage3": {
+        "description": "Third message shown during scan processing."
+    },
+    "processingScanMessage4": "Consulting our knowledge base...",
+    "@processingScanMessage4": {},
+    "processingScanMessage5": "Cross-referencing safety data...",
+    "@processingScanMessage5": {},
+    "processingScanMessage6": "Finalizing your personalized insights...",
+    "@processingScanMessage6": {},
+
+  "paymentStatusTitleReceived": "Payment Received",
+  "@paymentStatusTitleReceived": {},
+  "paymentStatusMsg1Received": "Your payment is being confirmed.",
+  "@paymentStatusMsg1Received": {},
+  "paymentStatusMsg2Received": "We're preparing to activate your plan.",
+  "@paymentStatusMsg2Received": {},
+  "paymentStatusProcessingShort": "Processing...",
+  "@paymentStatusProcessingShort": {},
+  "paymentStatusTitleProcessing": "Activating Your Plan",
+  "@paymentStatusTitleProcessing": {},
+  "paymentStatusMsg1Processing": "Your premium membership is being activated.",
+  "@paymentStatusMsg1Processing": {},
+  "paymentStatusMsg2Processing": "Thank you for trusting SafeMama.",
+  "@paymentStatusMsg2Processing": {},
+  "paymentStatusProcessingLong": "Processing: {seconds} seconds remaining",
+  "@paymentStatusProcessingLong": {"placeholders": {"seconds": {"type": "String"}}},
+  "paymentStatusTitleSuccessful": "Payment Successful",
+  "@paymentStatusTitleSuccessful": {},
+  "paymentStatusMsg1Successful": "Your premium benefits are now available.",
+  "@paymentStatusMsg1Successful": {},
+  "paymentStatusMsg2Successful": "All features unlocked for a healthier pregnancy journey!",
+  "@paymentStatusMsg2Successful": {},
+  "paymentStatusProcessingComplete": "Complete!",
+  "@paymentStatusProcessingComplete": {},
+  "paymentStatusTitleFailed": "Payment Failed",
+  "@paymentStatusTitleFailed": {},
+  "paymentStatusMsg1Failed": "Unfortunately, your payment could not be processed.",
+  "@paymentStatusMsg1Failed": {},
+  "paymentStatusMsg2Failed": "Please try again or contact support if the issue persists.",
+  "@paymentStatusMsg2Failed": {},
+  "paymentStatusProcessingFailed": "Failed",
+  "@paymentStatusProcessingFailed": {},
+  "paymentStatusRedirectingIn": "Redirecting in {seconds} seconds...",
+  "@paymentStatusRedirectingIn": {"placeholders": {"seconds": {"type": "String"}}},
+  "paymentStatusProceedButton": "Proceed to Dashboard",
+  "@paymentStatusProceedButton": {},
+  "paymentStatusTryAgainButton": "Try Again",
+  "@paymentStatusTryAgainButton": {},
+  "paymentGatewayTitle": "Secure Payment",
+  "@paymentGatewayTitle": {},
+  "paymentCancelConfirmTitle": "Cancel Payment?",
+  "@paymentCancelConfirmTitle": {},
+  "paymentCancelConfirmMsg": "Are you sure you want to cancel the payment process?",
+  "@paymentCancelConfirmMsg": {},
+  "commonDialogNo": "No",
+  "@commonDialogNo": {},
+  "commonDialogYes": "Yes",
+  "@commonDialogYes": {},
+  "paymentPageLoadError": "Failed to load payment page. Please check your internet connection and try again.",
+  "@paymentPageLoadError": {},
+  "paymentStatusMsg1Received_alt": "Your payment is being processed.",
+  "@paymentStatusMsg1Received_alt": {
+      "description": "Subtitle for the payment status screen in the 'Received' state."
+  },
+  "paymentStatusMsg2Received_alt_ps": "We're activating your plan now!",
+  "@paymentStatusMsg2Received_alt_ps": {
+      "description": "Main message for the payment status screen in the 'Received' state. (ps for payment_status)"
+  },
+  "paymentStatusMsg1Processing_alt": "Your payment is being processed.",
+  "@paymentStatusMsg1Processing_alt": {
+      "description": "Subtitle for the payment status screen in the 'Processing' state."
+  },
+  "paymentStatusMsg2Processing_alt_ps": "Your premium membership will be activated soon.\nThank you for trusting SafeMama.\nYour premium benefits will be available shortly!\nAll features unlocked for a healthier pregnancy journey!",
+  "@paymentStatusMsg2Processing_alt_ps": {
+      "description": "Main message for the payment status screen in the 'Processing' state."
+  },
+  "paymentStatusMsg1Successful_alt": "Your payment has been processed.",
+  "@paymentStatusMsg1Successful_alt": {
+      "description": "Subtitle for the payment status screen in the 'Successful' state."
+  },
+  "paymentStatusMsg2Successful_alt_ps": "Your premium membership is now active!\nThank you for trusting SafeMama.\nYour premium benefits are available immediately.\nAll features unlocked for a healthier pregnancy journey!",
+  "@paymentStatusMsg2Successful_alt_ps": {
+      "description": "Main message for the payment status screen in the 'Successful' state."
+  },
+  "paymentStatusMsg1Failed_alt_ps": "Unfortunately, your payment could not be processed.\nPlease try again or contact support.",
+  "@paymentStatusMsg1Failed_alt_ps": {
+      "description": "Main message for the payment status screen in the 'Failed' state."
+  },
+  "bottomNavAIGuide": "AI Guide",
+  "@bottomNavAIGuide": {},
+  "voiceSearchNotAvailable": "Voice search is not available at the moment.",
+  "@voiceSearchNotAvailable": {},
+  "searchByVoiceTooltip": "Search by voice",
+  "@searchByVoiceTooltip": {},
+  "searchResultsSectionHistory": "From Your Scan History",
+  "@searchResultsSectionHistory": {},
+  "searchResultsSectionAI": "AI Search Results",
+  "@searchResultsSectionAI": {},
+  "freeSearchAiPrompt": "Upgrade to Premium to get AI-powered search results for any item.",
+  "@freeSearchAiPrompt": {},
+  "aiGuideErrorNoContent": "No guide could be generated for this topic. Please try another one or refine your topic.",
+  "@aiGuideErrorNoContent": {},
+  "drawerAIPersonalizedGuide": "AI Personalized Guide",
+  "@drawerAIPersonalizedGuide": {},
+    "forgotPasswordTitle": "Forgot Password",
+    "forgotPasswordInstructions": "Enter your account's email address and we will send you a link to reset your password.",
+    "sendResetLinkButton": "Send Reset Link",
+    "passwordResetLinkSentTitle": "Check Your Email",
+    "passwordResetLinkSentMessage": "A password reset link has been sent to {email}. Please follow the instructions in the email to set a new password.",
+    "@passwordResetLinkSentMessage": {
+        "description": "Message shown after a password reset link is sent.",
+        "placeholders": {
+            "email": {
+                "type": "String",
+                "example": "mama@example.com"
+            }
+        }
+    },
+    "passwordResetFailedError": "Failed to send password reset link. Please try again.",
+    "ok": "OK",
+    "getStarted": "Get Started",
+    "welcomeTitle1": "Scan Products Instantly",
+    "welcomeDesc1": "Get immediate safety information on food and medicine by scanning barcodes.",
+    "welcomeTitle2": "Personalized for You",
+    "welcomeDesc2": "Receive expert-written guides and insights tailored to your pregnancy trimester.",
+    "welcomeTitle3": "Ask an Expert",
+    "welcomeDesc3": "Get answers to your pregnancy questions from our friendly AI-powered assistant.",
+    "welcomeTitle4": "Your Journey, Supported",
+    "welcomeDesc4": "Track your progress and stay informed every step of the way. Welcome to SafeMama.",
+    "forgotPasswordPhoneInstructions": "Enter the phone number you registered with to receive a password reset OTP.",
+    "phoneLabel": "Phone",
+    "sendOtpButton": "Send OTP",
+    "otpLabel": "OTP Code",
+    "newPasswordLabel": "New Password",
+    "confirmNewPasswordLabel": "Confirm New Password",
+    "resetPasswordButton": "Reset Password",
+    "taskInProgressLoadingMessage": "Processing, please wait...",
+
+
+        "scanLimitReached": "Scan Limit Reached",
+    "consentScreenTitle": "Consent & Preferences",
+    "consentScreenSubtitle": "Help us personalize your experience",
+    "emailNotificationsTitle": "Email Notifications",
+    "emailNotificationsDescription": "Receive updates about your pregnancy journey",
+    "dataSharingTitle": "Data Sharing",
+    "dataSharingDescription": "Help improve our service by sharing anonymous data",
+    "consentRequiredError": "Please enable at least one option to continue",
+    "freeLimitReachedMessage": "You've used all your free scans.",
+    "limitsResetMonthly": "Your free limits will reset on the 1st of next month.",
+    "upgradeForMore": "Upgrade to Premium for more features!",
+    "premiumLimitReachedMessage": "You have used all your scans for this period. Your limits will reset at the start of your next billing cycle.",
+    "buttonUpgradeNow": "Upgrade Now",
+    "buttonCancel": "Cancel"
+}
