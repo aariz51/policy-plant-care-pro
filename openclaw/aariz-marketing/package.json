@@ -1,0 +1,22 @@
+{
+    "name": "openclaw-marketing-agent",
+    "version": "1.0.0",
+    "type": "module",
+    "description": "AI Marketing Agent for SafeMama — Research, Slide Generation, Auto-Posting to TikTok & Instagram",
+    "main": "src/index.js",
+    "scripts": {
+        "start": "node src/index.js",
+        "research": "node src/index.js research",
+        "content": "node src/index.js content",
+        "slides": "node src/index.js slides",
+        "post": "node src/index.js post"
+    },
+    "dependencies": {
+        "better-sqlite3": "^11.0.0",
+        "dotenv": "^16.4.5",
+        "node-telegram-bot-api": "^0.66.0",
+        "openai": "^4.73.0",
+        "playwright-core": "^1.49.0",
+        "sharp": "^0.33.2"
+    }
+}

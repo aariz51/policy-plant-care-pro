@@ -1,0 +1,32 @@
+# Dependencies
+node_modules/
+
+# Environment & Secrets
+.env
+.env.*
+*.env
+
+# Database
+data/*.db
+data/*.db-journal
+data/*.db-wal
+data/*.db-shm
+
+# Generated slides (large files)
+data/slides/*.png
+data/slides/*.jpg
+
+# Debug files
+debug*.json
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+npm-debug.log*
